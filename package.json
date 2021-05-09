@@ -1,0 +1,19 @@
+{
+  "name": "nodelibraryapp",
+  "version": "1.0.0",
+  "description": "https://hexquote.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawadhasan/nodelibraryapp.git"
+  },
+  "author": "jawad hasan (jawadhasan80@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawadhasan/nodelibraryapp/issues"
+  },
+  "homepage": "https://github.com/jawadhasan/nodelibraryapp#readme"
+}
